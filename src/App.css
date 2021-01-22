@@ -1,0 +1,89 @@
+#header{
+
+  color:blue;
+  text-align: center;
+  
+}
+
+#sidewalabar{
+position: absolute;
+  width: 20%;
+  top:0;
+  height: 100vh;
+  background-color:grey;
+  text-align: center;
+  color: aliceblue;
+}
+
+#sidefix{
+
+  position: absolute;
+  align-content: center;
+  left: 5%;
+  bottom: 0;
+  text-align: center;
+}
+
+#test{
+
+  margin-left: 30%;
+}
+
+#test ul li{
+
+ display: inline;
+ margin-left:2px;
+ text-align: center;
+ 
+}
+
+.status{
+  display: inline-flex;
+  width: 20%;
+  margin-left:2px;
+  height: 100px;
+  background-color: gray;
+  text-align: center;
+ 
+}
+#btnp{
+  margin-top: 5%;
+  margin-left:25%; 
+  margin-right: 20%;
+  height: 30%;
+  
+}
+.zigzag{
+  margin-left: 30%;
+  width: 50%;
+}
+#zigzag{
+  margin-left: 30%;
+  width: 50%;
+}
+tr{
+  background-color: #d3d3d3 ;
+}
+tr:nth-child(even){
+  background-color: grey;
+}
+td{
+  padding: 12px 12px 12px 12px;
+}
+
+
+ .header{
+background-color: black;
+color: aliceblue;
+height: 50px;
+
+}
+.pn {
+  width: 20%;
+  display: inline-flex;
+ 
+}
+avatar{
+  size: 2%;
+}
+
